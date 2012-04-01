@@ -1,4 +1,8 @@
-=head1 Testing difficult-to-test database models
+=head1 NAME
+
+Catalyst::Manual::Monthly::2012::February::TestDBICWithBellsOn
+
+=head2 Testing difficult-to-test database models
 
 In this article we're going to describe a technique for testing database-heavy
 web applications using either a temporary testing database, or using the DSN

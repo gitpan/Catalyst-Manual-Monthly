@@ -2,11 +2,13 @@ package Catalyst::Manual::Monthly;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 NAME
 
 Catalyst::Manual::Monthly
+
+=head1 DESCRIPTION
 
 This is repository for the monthly articles which replace the Catalyst
 Advent Calendar.  Following the Catalyst philosophy, the Catalyst monthly
